@@ -1,0 +1,619 @@
+1)
+galaxy-far-far-away> mkdir death_star
+
+
+    Directory: C:\Users\Mistre
+    Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/29/2023   1:07 AM                death_star
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away> cd  death_star
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star> echo > darth_vader.txt
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star>  echo > storm_trooper.txt
+
+cmdlet Write-Output at command pipeline position 1
+Supply values for the following parameters:
+InputObject[0]:
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star> ls
+
+
+    Directory: C:\Users\Mistre Sibere\Desktop\git-github-
+    and-terminal\galaxy-far-far-away\death_star
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         5/29/2023   1:07 AM              0 darth_v
+                                                  ader.tx
+                                                  t
+-a----         5/29/2023   1:11 AM              0 princes
+                                                  s_leia.
+                                                  txt
+-a----         5/29/2023   1:12 AM              0 storm_t
+                                                  rooper.
+                                                  txt
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star>
+
+
+
+
+
+2)
+ Directory: C:\Users\Mistre
+    Sibere\Desktop\git-github-and-terminal
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/29/2023  12:32 AM                galaxy-far-fa
+                                                  r-away
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal> cd galaxy-far-far-away
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away> mkdir tatooine
+
+
+    Directory: C:\Users\Mistre
+    Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/29/2023  12:44 AM                tatooine
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away> cd tatooine
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine> echo > luke.txt
+
+cmdlet Write-Output at command pipeline position 1
+Supply values for the following parameters:
+InputObject[0]:
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine>  echo > ben_kenobi.txt
+
+cmdlet Write-Output at command pipeline position 1
+Supply values for the following parameters:
+InputObject[0]:
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine> ls
+
+
+    Directory: C:\Users\Mistre Sibere\Desktop\git-github-and-te
+    rminal\galaxy-far-far-away\tatooine
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         5/29/2023  12:48 AM              0 ben_kenobi.tx
+                                                  t
+-a----         5/29/2023  12:48 AM              0 luke.txt
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine>
+
+
+
+3)
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine> mkdir millenium_falcon
+
+
+    Directory: C:\Users\Mistre Sibere\Desktop\git-github-and-te
+    rminal\galaxy-far-far-away\tatooine
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/29/2023  12:51 AM                millenium_fal
+                                                  con
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine> cd  millenium_falcon
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine\millenium_falcon> echo > han_solo.txt
+
+cmdlet Write-Output at command pipeline position 1
+Supply values for the following parameters:
+InputObject[0]:
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine\millenium_falcon>  echo > chewbaca.txt
+
+cmdlet Write-Output at command pipeline position 1
+Supply values for the following parameters:
+InputObject[0]:
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine\millenium_falcon> ls
+
+
+    Directory: C:\Users\Mistre Sibere\Desktop\git-github-and-te
+    rminal\galaxy-far-far-away\tatooine\millenium_falcon
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         5/29/2023  12:53 AM              0 chewbaca.txt
+-a----         5/29/2023  12:53 AM              0 han_solo.txt
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine\millenium_falcon>
+
+4)
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine> ls
+
+
+    Directory: C:\Users\Mistre Sibere\Desktop\git-github-and-te
+    rminal\galaxy-far-far-away\tatooine
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/29/2023  12:53 AM                millenium_fal
+                                                  con
+-a----         5/29/2023  12:48 AM              0 ben_kenobi.tx
+                                                  t
+-a----         5/29/2023  12:48 AM              0 luke.txt
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine> mv ben_kenobi.txt obi_wan.txt
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine> ls
+
+
+    Directory: C:\Users\Mistre Sibere\Desktop\git-github-and-te
+    rminal\galaxy-far-far-away\tatooine
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/29/2023  12:53 AM                millenium_fal
+                                                  con
+-a----         5/29/2023  12:48 AM              0 luke.txt
+-a----         5/29/2023  12:48 AM              0 obi_wan.txt
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine>
+
+ 5)
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away> cp 'C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star\storm_trooper.txt' 'C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine'
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away> cd tatooine
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine> ls
+
+
+    Directory: C:\Users\Mistre Sibere\Desktop\git-github-and-te
+    rminal\galaxy-far-far-away\tatooine
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/29/2023   4:24 PM                millenium_fal
+                                                  con
+-a----         5/29/2023   1:12 AM              0 storm_trooper
+                                                  .txt
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine>
+
+6)
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away> mv 'C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine\*.txt' 'C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine\millenium_falcon'
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away> ls
+
+
+    Directory: C:\Users\Mistre
+    Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/29/2023   3:27 PM                death_star
+d-----         5/29/2023   4:24 PM                tatooine
+-a----         5/29/2023  11:25 AM           6669 command.txt
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away> cd tatooine
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine> cd mellenium_falcon
+cd : Cannot find path 'C:\Users\Mistre Sibere\Desktop\git-githu
+b-and-terminal\galaxy-far-far-away\tatooine\mellenium_falcon'
+because it does not exist.
+At line:1 char:1
++ cd mellenium_falcon
++ ~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\Mistre
+   ...ellenium_falcon:String) [Set-Location], ItemNotFoundExc
+  eption
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShel
+   l.Commands.SetLocationCommand
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine> cd millenium_falcon
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine\millenium_falcon> ls
+
+
+    Directory: C:\Users\Mistre Sibere\Desktop\git-github-and-te
+    rminal\galaxy-far-far-away\tatooine\millenium_falcon
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         5/29/2023  12:53 AM              0 chewbaca.txt
+-a----         5/29/2023  12:53 AM              0 han_solo.txt
+-a----         5/29/2023  12:48 AM              0 luke.txt
+-a----         5/29/2023  12:48 AM              0 obi_wan.txt
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine\millenium_falcon>
+ 
+7)
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away> mv 'C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tatooine\millenium_falcon' 'C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away'
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away> ls
+
+
+    Directory: C:\Users\Mistre
+    Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/29/2023   3:27 PM                death_star
+d-----         5/29/2023   4:24 PM                millenium_fal
+                                                  con
+d-----         5/29/2023   4:30 PM                tatooine
+-a----         5/29/2023   4:31 PM           9949 command.txt
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away>
+9)
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star> mv 'C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star\princess_leia.txt' 'C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star\millenium_falcon'
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star> ls
+
+
+    Directory: C:\Users\Mistre Sibere\Desktop\git-github-and-te
+    rminal\galaxy-far-far-away\death_star
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/29/2023   4:50 PM                millenium_fal
+                                                  con
+-a----         5/29/2023   1:07 AM              0 darth_vader.t
+                                                  xt
+-a----         5/29/2023   1:12 AM              0 storm_trooper
+                                                  .txt
+-a----         5/29/2023   1:12 AM              0 tatooine
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star> cd millenium_falcon
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star\millenium_falcon> ls
+
+
+    Directory: C:\Users\Mistre Sibere\Desktop\git-github-and-te
+    rminal\galaxy-far-far-away\death_star\millenium_falcon
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         5/29/2023  12:53 AM              0 chewbaca.txt
+-a----         5/29/2023  12:53 AM              0 han_solo.txt
+-a----         5/29/2023  12:48 AM              0 luke.txt
+-a----         5/29/2023  12:48 AM              0 obi_wan.txt
+-a----         5/29/2023   1:11 AM              0 princess_leia
+                                                  .txt
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star\millenium_falcon>
+
+10)
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star\millenium_falcon> rm -r obi_wan.txt
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star\millenium_falcon> ls
+
+
+    Directory: C:\Users\Mistre Sibere\Desktop\git-github-and-te
+    rminal\galaxy-far-far-away\death_star\millenium_falcon
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         5/29/2023  12:53 AM              0 chewbaca.txt
+-a----         5/29/2023  12:53 AM              0 han_solo.txt
+-a----         5/29/2023  12:48 AM              0 luke.txt
+-a----         5/29/2023   1:11 AM              0 princess_leia
+                                                  .txt
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star\millenium_falcon>
+
+11)
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away> mkdir yavin_4
+
+
+    Directory: C:\Users\Mistre
+    Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/29/2023   9:59 PM                yavin_4
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away> ls
+
+
+    Directory: C:\Users\Mistre
+    Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/29/2023   4:50 PM                death_star
+d-----         5/29/2023   4:34 PM                tatooine
+d-----         5/29/2023   9:59 PM                yavin_4
+-a----         5/29/2023   9:57 PM          13829 command.txt
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away>
+ 
+12)
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away> mv 'C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star\millenium_falcon' 'C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\yavin_4'
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away> cd yavin_4
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\yavin_4> ls
+
+
+    Directory: C:\Users\Mistre Sibere\Desktop\git-github-and-te
+    rminal\galaxy-far-far-away\yavin_4
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/29/2023   9:55 PM                millenium_fal
+                                                  con
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\yavin_4>
+
+
+13)
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\yavin_4> mkdir x_wing
+
+
+    Directory: C:\Users\Mistre Sibere\Desktop\git-github-and-te
+    rminal\galaxy-far-far-away\yavin_4
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/29/2023  10:29 PM                x_wing
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\yavin_4> ls
+
+
+    Directory: C:\Users\Mistre Sibere\Desktop\git-github-and-te
+    rminal\galaxy-far-far-away\yavin_4
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/29/2023   9:55 PM                millenium_fal
+                                                  con
+d-----         5/29/2023  10:29 PM                x_wing
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\yavin_4>
+
+14)
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away> mv 'C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\yavin_4\millenium_falcon\princess_leia.txt' 'C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\yavin_4'
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away> cd yavin_4
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\yavin_4> ls
+
+
+    Directory: C:\Users\Mistre Sibere\Desktop\git-github-and-te
+    rminal\galaxy-far-far-away\yavin_4
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/29/2023  10:43 PM                millenium_fal
+                                                  con
+d-----         5/29/2023  10:29 PM                x_wing
+-a----         5/29/2023   1:11 AM              0 princess_leia
+                                                  .txt
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\yavin_4>
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away> mv 'C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\yavin_4\millenium_falcon\luke.txt' 'C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\yavin_4\x_wing'
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away> cd yavin_4
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\yavin_4> ls
+
+
+    Directory: C:\Users\Mistre Sibere\Desktop\git-github-and-te
+    rminal\galaxy-far-far-away\yavin_4
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/29/2023  10:43 PM                millenium_fal
+                                                  con
+d-----         5/29/2023  10:58 PM                x_wing
+-a----         5/29/2023   1:11 AM              0 princess_leia
+                                                  .txt
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\yavin_4> cd x_wing
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\yavin_4\x_wing> ls
+
+
+    Directory: C:\Users\Mistre Sibere\Desktop\git-github-and-te
+    rminal\galaxy-far-far-away\yavin_4\x_wing
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         5/29/2023  12:48 AM              0 luke.txt
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\yavin_4\x_wing>
+
+15)
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\yavin_4> cd ..
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away> mv 'C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\yavin_4\millenium_falcon' '\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away'
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away> ls
+
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away> mv 'C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\yavin_4\x_wing' 'C:\Users\Mistre S
+ibere\Desktop\git-github-and-terminal\galaxy-far-far-away'
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away>
+
+
+16)
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star> mkdir tie_fighter_1
+
+
+    Directory: C:\Users\Mistre Sibere\Desktop\git-github-and-te
+    rminal\galaxy-far-far-away\death_star
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/30/2023   8:48 PM                tie_fighter_1
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star> mkdir tie_fighter_2
+
+
+    Directory: C:\Users\Mistre Sibere\Desktop\git-github-and-te
+    rminal\galaxy-far-far-away\death_star
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/30/2023   8:49 PM                tie_fighter_2
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star> mkdir tie_fighter_3
+
+
+    Directory: C:\Users\Mistre Sibere\Desktop\git-github-and-te
+    rminal\galaxy-far-far-away\death_star
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/30/2023   8:49 PM                tie_fighter_3
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star>
+
+
+17)
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star> mv 'C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star\darth_vader.txt' 'C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\gal
+axy-far-far-away\death_star\tie_fighter_3'
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star> ls
+
+
+    Directory: C:\Users\Mistre Sibere\Desktop\git-github-and-te
+    rminal\galaxy-far-far-away\death_star
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         5/30/2023   8:48 PM                tie_fighter_1
+d-----         5/30/2023   8:49 PM                tie_fighter_2
+d-----         5/30/2023   8:51 PM                tie_fighter_3
+-a----         5/29/2023   1:12 AM              0 storm_trooper
+                                                  .txt
+-a----         5/29/2023   1:12 AM              0 tatooine
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star>
+ 
+
+18)
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star> cp "C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star\storm_trooper.txt" "C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star\tie_fighter_2"
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star> cp "C:\Users\Mistre Sibere\Desktop\git
+-github-and-terminal\galaxy-far-far-away\death_star\storm_troope
+r.txt" "C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\g
+alaxy-far-far-away\death_star\tie_fighter_3"
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star>
+
+19)
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star> mv "C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star\tie_fighter_1" "C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away"
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star> mv "C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star\tie_fighter_2" "C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away"
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star> mv "C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star\tie_fighter_3" "C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away"
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star>
+
+20)
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star> rm "C:\Users\Mistre Sibere\Desktop\git
+-github-and-terminal\galaxy-far-far-away\tie_fighter_2"
+
+Confirm
+The item at C:\Users\Mistre
+Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tie_
+fighter_2 has children and the Recurse parameter was not
+specified. If you continue, all children will be removed with
+the item. Are you sure you want to continue?
+[Y] Yes  [A] Yes to All  [N] No  [L] No to All  [S] Suspend
+[?] Help(default is "Y"):
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star> rm "C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tie_fighter_3"
+
+Confirm
+The item at C:\Users\Mistre
+Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\tie_
+fighter_3 has children and the Recurse parameter was not
+specified. If you continue, all children will be removed with
+the item. Are you sure you want to continue?
+[Y] Yes  [A] Yes to All  [N] No  [L] No to All  [S] Suspend
+[?] Help(default is "Y"):
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star>
+
+
+21)
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\x_wing> echo >the_force.txt
+
+cmdlet Write-Output at command pipeline position 1
+Supply values for the following parameters:
+InputObject[0]:
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\x_wing> ls
+
+
+    Directory: C:\Users\Mistre Sibere\Desktop\git-github-and-te
+    rminal\galaxy-far-far-away\x_wing
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         5/29/2023  12:48 AM              0 luke.txt
+-a----         5/30/2023   9:25 PM              0 the_force.txt
+
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\x_wing>
+
+22)
+
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\x_wing> del "C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\death_star"
+
+Confirm
+The item at C:\Users\Mistre
+Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\deat
+h_star has children and the Recurse parameter was not
+specified. If you continue, all children will be removed with
+the item. Are you sure you want to continue?
+[Y] Yes  [A] Yes to All  [N] No  [L] No to All  [S] Suspend
+[?] Help(default is "Y"):
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\x_wing>
+
+23)
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away> mv "C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\x_wing" "C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\yavin_4"
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away> mv "C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\millenium_falcon" "C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away\yavin_4"
+PS C:\Users\Mistre Sibere\Desktop\git-github-and-terminal\galaxy-far-far-away>
